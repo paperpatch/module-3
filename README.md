@@ -1,4 +1,4 @@
-# Robnot Gladiators
+# Robot Gladiators
 
 Robot Gladiators JavaScript game using window prompts. No CSS was used.
 
